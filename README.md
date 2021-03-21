@@ -1,5 +1,9 @@
 # ATM mod for Minetest
 
+Originally made by gpcf,
+Forked by h-v smacker and reforked by W3RQ01 to improve 
+some small parts.
+
 This mod adds a faimly of ATM machines designed to work with the currency mod and its
 minegeld banknotes. ATMs allow you to transfer money to your bank account and withdraw
 various sums as needed.
