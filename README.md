@@ -62,4 +62,4 @@ If there are errors, a corresponding message is shown in the chat, and the trans
 
 ## Founder
 
-This is a fork of gpcf's ATM mod: git://gpcf.eu/atm.git
+This is a fork of Smacker's ATM mod
